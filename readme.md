@@ -4,3 +4,7 @@
 - git push
 - git pull
 - git fetch
+
+# Github
+- forks
+- issues
